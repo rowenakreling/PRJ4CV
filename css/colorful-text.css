@@ -1,0 +1,13 @@
+@charset "utf-8";
+.colorful-text {
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+    text-shadow:  
+        2px 2px 0 orange,  
+        4px 4px 0 yellow,  
+        6px 6px 0 green,  
+        8px 8px 0 blue,  
+        10px 10px 0 indigo,  
+        12px 12px 0 violet;
+}
